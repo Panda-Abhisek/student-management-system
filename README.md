@@ -137,8 +137,7 @@ Or directly from STS or IntelliJ.
 ## 📫 Contact
 
 **Abhisek Panda**
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-📧 [your.email@example.com](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhisek-panda-)
 
 ---
 
