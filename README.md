@@ -112,15 +112,15 @@ Or directly from STS or IntelliJ.
 | PUT    | `/api/students/{id}` | Update a student     |
 | DELETE | `/api/students/{id}` | Delete a student     |
 ```
+
+
 ---
 
 ## 💻 Screenshots
 
-```markdown
-![Home Page](screenshots/home.png)
-![Student Table](screenshots/table.png)
-![Edit Form](screenshots/edit.png)
-```
+<img src="screenshots/home.png" height="500px" width="1000px"/>
+<img src="screenshots/table.png" height="500px" width="1000px" />
+<img src="screenshots/edit.png" height="500px" width="1000px" />
 
 ---
 
